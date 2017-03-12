@@ -29,4 +29,4 @@ CLAUSES
  cucu(CUCU):-anak(CUCU,james);anak(CUCU,ann).
  adik(NAMA):-usia(NAMA,Usia),Usia<13.
   GOAL
- cucu(CUCU);ibu(IBU);adik(ADIK);kakek(KAKEK).
+ kakek(KAKEK);ibu(A).
