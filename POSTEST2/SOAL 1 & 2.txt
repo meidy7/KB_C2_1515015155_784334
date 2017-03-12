@@ -1,0 +1,21 @@
+nomor 1
+a. dian adalah orang
+b. atoz adalah mobil
+c. dian suka atoz
+d. atoz betul dijual
+e. x dapat membeli y jika x adalah orang dan y adalah mobil dan x suka y dan y betul dijual
+f. setiap orang suka apa
+
+nomor 2
+a. hobi_bermain(ricky,catur).
+b. pemalas(Embang).
+c. vegetarian(Yusida).
+d. pandai_main(Kusdiar).
+e. mobil(merah,sadek,BMW).
+f. pemain_piano(Awan,pontianak,jawa).
+g. baik(orang);-sifat(orang,penyayang),sifat(orang,dermawan).
+h. pintar(orang);-
+   matematika(orang,nilai),nilai>80;
+   IPA(orang,nilai),nilai>80;
+   IPS(orang,nilai),nilai>80.
+i. mati(_).
